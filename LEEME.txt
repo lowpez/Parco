@@ -1,0 +1,48 @@
+portfolio = post type
+http://localhost/wordpress/portfolio/
+
+area = taxonomia
+http://localhost/wordpress/area/webdesign/
+
+¿Cómo?
+
+Extracto y Texto introductorio:
+
+ Ajustes > Lectura > Resumen
+
+
+
+Plantilla para Contact Form 7
+
+<div class="flex-grid">
+	<div class="col">
+		<label> Tu nombre
+		    [text* your-name] </label>
+	</div>
+	<div class="col">
+		<label> Tu correo electrónico
+		    [email* your-email] </label>
+	</div>
+	<div class="col">
+		<label> Asunto
+		    [text* your-subject] </label>
+	</div>
+	<div class="col-big">
+		<label> Tu mensaje (opcional)
+		    [textarea your-message] </label>
+	</div>
+		[submit "Enviar"]
+</div>
+
+Texto Blog
+
+Bloguear es contar historias y un buen diseño de blog se convierte en parte de las historias que cuentas.
+
+
+BG
+
+Minimal white japanese style geometric by Starline
+
+https://www.freepik.com/free-vector/minimal-white-japanese-style-geometric-background_12686684.htm#page=1&query=minimalist+background&position=10
+
+

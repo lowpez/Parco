@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Roboto:400,500,700');
+
+$font-title: 'Montserrat', sans-serif;
+$font-text: 'Roboto', sans-serif;
+
+@mixin font-title-light(){
+	font-family: $font-title;
+	font-weight: 300;
+}
+
+@mixin font-title-regular(){
+  font-family: $font-title;
+  font-weight: 400;
+}
+
+@mixin font-title-medium(){
+  font-family: $font-title;
+  font-weight: 500;
+}
+
+@mixin font-title-bold(){
+  font-family: $font-title;
+  font-weight: 700;
+}
+
+@mixin font-regular(){
+  font-family: $font-text;
+  font-weight: 400;
+}
+
+@mixin font-medium(){
+  font-family: $font-text;
+  font-weight: 500;
+}
+
+@mixin font-bold(){
+  font-family: $font-text;
+  font-weight: 700;
+}
+
+.font-title-light{
+  font-family: $font-title !important;
+  font-weight: 300 !important;
+}
+
+.font-title-regular{
+  font-family: $font-title !important;
+  font-weight: 400 !important;
+}
+
+.font-title-medium{
+  font-family: $font-title !important;
+  font-weight: 500 !important;
+}
+
+.font-title-bold{
+  font-family: $font-title !important;
+  font-weight: 700 !important;
+}
+
+.font-regular{
+  font-family: $font-text !important;
+  font-weight: 400 !important;
+}
+
+.font-medium{
+  font-family: $font-text !important;
+  font-weight: 500 !important;
+}
+
+.font-bold{
+  font-family: $font-text !important;
+  font-weight: 700 !important;
+}

@@ -1,0 +1,18 @@
+
+$red: #f96d64;
+$gray: #878787;
+$black-alternative: #141618;
+
+
+// Replacing bootstrap colors
+$primary: $red;
+
+// Classes
+.text-red{color:$red !important;}
+.text-gray{color:$gray !important;}
+.text-black-alternative{color:$black-alternative !important;}
+
+.bg-red{background-color: $red;}
+.bg-gray{background-color: $gray;}
+.bg-black-alternative{background-color:$black-alternative !important;}
+

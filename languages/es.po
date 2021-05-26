@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tema Slan Hotel 1.0\n"
+"POT-Creation-Date: 2018-08-10 10:24-0500\n"
+"PO-Revision-Date: 2018-08-10 10:25-0500\n"
+"Last-Translator: \n"
+"Language-Team: Sergio Agamez\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;gettext;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:9
+msgid "Se necesita contraseña para visualizar este contenido"
+msgstr ""
+
+#: comments.php:18
+msgid "Escribe el primer comentario"
+msgstr ""
+
+#: comments.php:18
+msgid "Un comentario"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "% comentarios"
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Comentarios "
+"anteriores"
+msgstr ""
+
+#: comments.php:33
+msgid ""
+"Comentarios siguientes<i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></"
+"i>"
+msgstr ""
+
+#: header.php:103
+msgid "MENÚ PRINCIPAL"
+msgstr ""
+
+#: includes/menus.php:17
+msgid "Menu principal en encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:19
+msgid "Encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:20
+msgid "Opciones del encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:28
+msgid "Encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:29
+msgid "Opciones del encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:42
+msgid "Enlace de facebook"
+msgstr ""
+
+#: includes/personalizador-tema.php:56
+msgid "Enlace de twitter"
+msgstr ""
+
+#: includes/personalizador-tema.php:70
+msgid "Enlace de instagram"
+msgstr ""
+
+#: includes/personalizador-tema.php:91
+msgid "Encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:92
+msgid "Opciones del encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:106
+msgid "Logo"
+msgstr ""
+
+#: includes/personalizador-tema.php:130
+msgid "Pagina de inicio"
+msgstr ""
+
+#: includes/personalizador-tema.php:131
+msgid "Opciones de la página de inicio"
+msgstr ""
+
+#: includes/personalizador-tema.php:139
+msgid "Habitaciones"
+msgstr ""
+
+#: includes/personalizador-tema.php:140
+msgid "Opciones de sección de habitaciones"
+msgstr ""
+
+#: includes/personalizador-tema.php:153
+msgid "Mostrar sección de habitaciones"
+msgstr ""
+
+#: includes/personalizador-tema.php:166
+msgid "Titulo de seccion habitaciones"
+msgstr ""
+
+#: includes/personalizador-tema.php:179
+msgid "Ultimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:180
+msgid "Opciones de sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:193
+msgid "Mostrar sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:206
+msgid "Titulo de seccion ultimos articulos"
+msgstr ""
+
+#: includes/sidebars.php:17
+msgid "Barra lateral"
+msgstr ""
+
+#: includes/sidebars.php:19
+msgid "Widgets en la barra lateral"
+msgstr ""
+
+#: includes/sidebars.php:30
+msgid "Pie de página zona izquierda"
+msgstr ""
+
+#: includes/sidebars.php:43
+msgid "Pie de página zona central"
+msgstr ""
+
+#: includes/sidebars.php:56
+msgid "Pie de página zona derecha"
+msgstr ""
+
+#: index.php:10
+msgid "Categoría:"
+msgstr ""
+
+#: index.php:14
+msgid "Etiqueta:"
+msgstr ""
+
+#: index.php:22
+msgid "Resultado de búsqueda para:"
+msgstr ""
+
+#: index.php:26 index.php:30 index.php:34
+msgid "Archivo:"
+msgstr ""
+
+#: index.php:39
+msgid "Artículos de:"
+msgstr ""
+
+#: index.php:46
+msgid "No se encontró la página"
+msgstr ""
+
+#: index.php:52
+msgid "Blog"
+msgstr ""
+
+#: index.php:108 template-homepage.php:195
+msgid "VER MÁS"
+msgstr ""
+
+#: index.php:130
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Artículos antiguos"
+msgstr ""
+
+#: index.php:133
+msgid ""
+"Artículos recientes <i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: template-parts/content-nopost.php:4
+msgid "No hay contenido para mostrar"
+msgstr ""
+
+#: template-parts/content-nopost.php:6
+msgid "No hay contenido en esta página, por favor realiza una nueva búsqueda"
+msgstr ""

@@ -1,0 +1,27 @@
+.sidebar{
+  @include media-breakpoint-down(sm){
+    padding-top: 30px;
+  }
+  .widget{
+    margin-bottom: 30px;
+
+    ul{
+      padding-left: 16px;
+
+      li{
+        a{
+          display: block;
+          padding: 6px 0;
+        }
+      }
+    }
+  }
+
+  .widget-title{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+}
